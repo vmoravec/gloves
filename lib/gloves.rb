@@ -1,5 +1,3 @@
-require "gloves/version"
+require 'gloves/version'
 
-module Gloves
-  # Your code goes here...
-end
+module Gloves; end
